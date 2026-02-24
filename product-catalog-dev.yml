@@ -8,4 +8,4 @@ spring:
         hibernate:
             ddl-auto: update
 
-message: In development profile
+message: In development profile (Updated)
