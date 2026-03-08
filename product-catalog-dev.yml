@@ -1,6 +1,6 @@
 spring:
     datasource:
-        url: jdbc:mysql://localhost:3306/jfsseptkart?rewriteBatchedStatements=true
+        url: jdbc:mysql://mysql-container:3306/shipkartdb?rewriteBatchedStatements=true
         username: root
         password: manish
     jpa:
