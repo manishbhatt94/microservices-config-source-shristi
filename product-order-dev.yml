@@ -1,0 +1,9 @@
+spring:
+    datasource:
+        url: jdbc:mysql://mysql-container:3306/shipkartdb?rewriteBatchedStatements=true
+        username: root
+        password: manish
+    jpa:
+        show-sql: true
+        hibernate:
+            ddl-auto: update
